@@ -1,0 +1,44 @@
+<IssueSpecification version="4">
+	<Name>
+		<en>Demo upas</en>
+		<nl>Demo upas</nl>
+	</Name>
+	<ShortName>
+		<en>Demo upas</en>
+		<nl>Demo upas</nl>
+	</ShortName>
+	<SchemeManager>irma-demo</SchemeManager>
+	<IssuerID>utrecht</IssuerID>
+	<CredentialID>upas</CredentialID>
+	<Description>
+		<en>Attributes for upas in Utrecht</en>
+		<nl>Attributen voor upas in Utrecht</nl>
+	</Description>
+	<IssueURL>
+		<en>https://privacybydesign.foundation/attribute-index/en/irma-demo.utrecht-upas.html</en>
+		<nl>https://privacybydesign.foundation/attribute-index/nl/irma-demo.utrecht-upas.html</nl>
+	</IssueURL>
+
+	<Attributes>
+		<Attribute id="inkomenstoets">
+			<Name>
+				<en>gebaseerd op inkomen</en>
+				<nl>based on income</nl>
+			</Name>
+			<Description>
+				<en>Indicator that a citizen is in posession of a Utrecht pass (U-PAS) based on income check</en>
+				<nl>Indicatie dat een burger in het bezit is van een Utrechtse pas (U-PAS) gebaseerd op inkomentoets</nl>
+			</Description>
+		</Attribute>
+		<Attribute id="wgs">
+			<Name>
+				<en>Debt counseling</en>
+				<nl>Schuldhulpverlening</nl>
+			</Name>
+			<Description>
+				<en>Indication that a citizen is in debt counseling</en>
+				<nl>Indicatie dat een burger in de schuldhulpverlening zit</nl>
+			</Description>
+		</Attribute>
+	</Attributes>
+</IssueSpecification>
