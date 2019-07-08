@@ -26,8 +26,8 @@
 				<nl>U-PAS</nl>
 			</Name>
 			<Description>
-				<en>Indicator that a citizen is in posession of a utrecht city pass</en>
-				<nl>Indicatie dat een burger in het bezit is van een utrechtse stadspas</nl>
+				<en>Indicator that a citizen is in posession of a Utrecht pass (U-PAS)</en>
+				<nl>Indicatie dat een burger in het bezit is van een Utrechtse pas (U-PAS)</nl>
 			</Description>
 		</Attribute>
 		<Attribute id="schuldhulpverlening">
@@ -42,4 +42,3 @@
 		</Attribute>
 	</Attributes>
 </IssueSpecification>
-schuldhulpverlening
